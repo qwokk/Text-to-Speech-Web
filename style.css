@@ -117,3 +117,14 @@ button:hover {
     background: rgba(0, 255, 204, 0.55);
     transform: scale(1.05);
 }
+
+    @media (max-width: 480px) {
+        .control-row {
+            flex-direction: column;
+        }
+
+        button,
+        select {
+            width: 100%;
+        }
+    }
