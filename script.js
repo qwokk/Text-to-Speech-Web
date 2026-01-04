@@ -16,6 +16,7 @@ function loadVoices() {
     voiceSelect.appendChild(option);
   });
 }
+
 window.speechSynthesis.onvoiceschanged = loadVoices;
 
 speakBtn.addEventListener("click", () => {
