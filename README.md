@@ -23,4 +23,4 @@
 #### 2.Откройте файл index.html в любом современном браузере.
 
 # Результат 
-#### 
+#### <img width="878" height="979" alt="Image" src="https://github.com/user-attachments/assets/4162d11d-af30-41de-86c2-b986b5e5868b" />
